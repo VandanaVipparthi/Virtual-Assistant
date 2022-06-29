@@ -1,4 +1,4 @@
-# Virtual-Assistant
+# Virtual-Speech-Assistant
 # Build Your Own ALEXA
 It is possible to build your own virtual assistant using python all we need to know is about libraries in python which will make our work quite simple.
 # Algorithm
